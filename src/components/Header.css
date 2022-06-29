@@ -1,0 +1,10 @@
+.contact-header {
+  width: 50%;
+}
+
+hr {
+  border: none;
+  border-bottom: 4px dotted rgb(244, 69, 69);
+  height: 2px;
+  width: 100%;
+}
